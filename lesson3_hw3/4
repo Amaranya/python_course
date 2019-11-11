@@ -1,0 +1,5 @@
+answer=input("Enter anythings")
+answerlen= len(answer)
+half=answerlen/2
+half1=int(half)
+print("First half:", answer[0:half1], "Second half:", answer[half1:len(answer)])
