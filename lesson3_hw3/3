@@ -1,0 +1,2 @@
+answer=input("Enter anythings")
+print("Length of input string is ", len(answer), len, ". Minimun is ", min(answer), min, ". Maximum is ", max(answer), max)
