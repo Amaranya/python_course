@@ -4,6 +4,6 @@ number2=random.random()
 result=number1*number2
 print(result)
 rounded4=round(result, 4)
-print(rounded4)
+print("Number rounded to 4:", rounded4)
 rounded2=round(result,2)
-print(rounded2)
+print("Number rounded to 2:", rounded2)
