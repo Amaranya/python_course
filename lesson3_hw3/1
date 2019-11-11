@@ -1,0 +1,9 @@
+import random
+number1=random.random()
+number2=random.random()
+result=number1*number2
+print(result)
+rounded4=round(result, 4)
+print(rounded4)
+rounded2=round(result,2)
+print(rounded2)
