@@ -1,0 +1,3 @@
+answer=input("Type anything")
+answerlen=len(answer)*-1
+print("Your answer back to front:", answer[-1:answerlen-1:-1])
